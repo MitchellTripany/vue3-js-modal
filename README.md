@@ -1,4 +1,6 @@
 <p align="center">
+
+Patched for Vue 3
   
 # Vue.js modal
 
